@@ -1,0 +1,4 @@
+interface:
+  display_name: "离心创意场第一棒"
+  short_description: "收命题扫旧中心并提炼核心主张候选等待用户拍板选择入口"
+  default_prompt: "使用 $lxc-1-jianchang 启动离心创意场命题建场并产出核心主张候选。"

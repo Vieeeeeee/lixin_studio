@@ -1,0 +1,4 @@
+interface:
+  display_name: "离心创意场第五棒"
+  short_description: "评估创意场图、小样支撑、真实重力、回心增殖与重构修正入口"
+  default_prompt: "使用 $lxc-5-changtu-pinggu 评估顶层候选的创意场图与顶层小样测试，并提出重构建议。"

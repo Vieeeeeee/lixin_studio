@@ -1,0 +1,4 @@
+interface:
+  display_name: "离心创意场第二棒"
+  short_description: "围绕核心主张建立节点池锚点池与折线路径池供拍板"
+  default_prompt: "使用 $lxc-2-jiedian-zhexian 围绕已拍板核心主张建立节点池、锚点池与折线路径池。"

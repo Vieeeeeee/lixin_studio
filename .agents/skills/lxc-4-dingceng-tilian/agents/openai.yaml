@@ -1,0 +1,4 @@
+interface:
+  display_name: "离心创意场第四棒"
+  short_description: "把已选结构提拉成顶层表达机制候选等待用户拍板入口"
+  default_prompt: "使用 $lxc-4-dingceng-tilian 将已选结构提拉成顶层表达候选。"
