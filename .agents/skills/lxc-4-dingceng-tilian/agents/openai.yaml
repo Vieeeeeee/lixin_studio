@@ -1,4 +1,4 @@
 interface:
-  display_name: "离心创意场 · ④出大创意"
-  short_description: "把创意核做成 big idea 和能用的文案，双关谐音优先"
-  default_prompt: "使用 $lxc-4-dingceng-tilian 出大创意：big idea + 文案。"
+  display_name: "离心创意场 · ④出创意小样"
+  short_description: "把创意核落成完整创意小样（Option），传播语双关谐音优先"
+  default_prompt: "使用 $lxc-4-dingceng-tilian 出创意小样：完整 Option（双关 / 谐音优先）。"
