@@ -1,4 +1,4 @@
 interface:
-  display_name: "离心创意场第三棒"
-  short_description: "识别承重节点同构多回路并判断结构模式等待拍板入口"
-  default_prompt: "使用 $lxc-3-jiegou-shibie 识别已选节点路径的结构模式与承重关系。"
+  display_name: "离心创意场 · ③定创意核"
+  short_description: "从创意点里找能立住的核心机制 / 支点"
+  default_prompt: "使用 $lxc-3-jiegou-shibie 定创意核：挑出能立住的核心机制。"

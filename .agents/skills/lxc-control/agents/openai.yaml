@@ -1,4 +1,4 @@
 interface:
-  display_name: "离心创意场总控"
-  short_description: "读取创意场记录，处理状态查询、拍板记录、继续执行、回炉调度与异常"
-  default_prompt: "使用 $lxc-control 从当前启动项目的创意场记录.md 判断状态、记录用户拍板并调度下一步。"
+  display_name: "离心创意场 · 总控调度"
+  short_description: "看进度 / 继续 / 记拍板 / 调度下一棒"
+  default_prompt: "使用 $lxc-control 看进度、继续或记录拍板。"

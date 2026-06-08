@@ -1,4 +1,4 @@
 interface:
-  display_name: "离心创意场第二棒"
-  short_description: "围绕核心主张建立节点池锚点池与折线路径池供拍板"
-  default_prompt: "使用 $lxc-2-jiedian-zhexian 围绕已拍板核心主张建立节点池、锚点池与折线路径池。"
+  display_name: "离心创意场 · ②发散"
+  short_description: "把主张甩远，找一批又远又拉得回的创意点"
+  default_prompt: "使用 $lxc-2-jiedian-zhexian 做发散：找创意点和可能方向。"

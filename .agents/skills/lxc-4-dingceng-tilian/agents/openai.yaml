@@ -1,4 +1,4 @@
 interface:
-  display_name: "离心创意场第四棒"
-  short_description: "把已选结构提拉成顶层表达机制候选等待用户拍板入口"
-  default_prompt: "使用 $lxc-4-dingceng-tilian 将已选结构提拉成顶层表达候选。"
+  display_name: "离心创意场 · ④出大创意"
+  short_description: "把创意核做成 big idea 和能用的文案，双关谐音优先"
+  default_prompt: "使用 $lxc-4-dingceng-tilian 出大创意：big idea + 文案。"
